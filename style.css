@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -13,7 +13,7 @@ body {
 header, nav, main, aside, footer {
     padding: 20px;
     margin: 10px;
-    background: #b9a6ff;
+    background: #f3d8ff;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -45,7 +45,7 @@ section {
 }
 
 article {
-    border-bottom: 1px solid #fff388;
+    border-bottom: 1px solid #e87cf1;
     padding-bottom: 10px;
     margin-bottom: 10px;
 }
